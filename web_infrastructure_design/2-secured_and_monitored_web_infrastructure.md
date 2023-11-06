@@ -1,14 +1,4 @@
 ![exo2](Task2.png)
 
-<h3>For every additional element, why you are adding it</h3>
-<p></p>
-<h3>What are firewalls for</h3>
-<p></p>
-<h3>Why is the traffic served over HTTPS</h3>
-<p></p>
-<h3>What monitoring is used for</h3>
-<p></p>
-<h3>How the monitoring tool is collecting data</h3>
-<p></p>
-<h3>Explain what to do if you want to monitor your web server QPS</h3>
-<p></p>
+<p>In IT infrastructure, extra elements are added to improve system performance, distribute workloads, and enhance reliability, avoiding single points of failure. Firewalls are used to protect networks from unauthorized access and cyber threats. HTTPS ensures secure communication by encrypting data between clients and servers. Monitoring is vital for system health and issue identification, providing proactive management. Monitoring tools collect data from system logs, agents, and network analysis, offering insights into system performance.</p>
+

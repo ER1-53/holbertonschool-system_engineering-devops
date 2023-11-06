@@ -1,14 +1,5 @@
 ![exo1](Task1.png)
 
-<h3>For every additional element, why you are adding it</h3>
-<p></p>
-<h3>What distribution algorithm your load balancer is configured with and how it works</h3>
-<p></p>
-<h3>Is your load-balancer enabling an Active-Active or Active-Passive setup, explain the difference between both</h3>
-<p></p>
-<h3>How a database Primary-Replica (Master-Slave) cluster works</h3>
-<p></p>
-<h3>What is the difference between the Primary node and the Replica node in regard to the application ?</h3>
-<p></p>
-<h3>Explain if the load balancer is configured to have an active-active or active-passive setup (their choice)</h3>
-<p></p>
+
+<p>Scalability and load balancing are crucial in the field of IT to ensure system availability and performance. Additional elements are often introduced to manage workloads, enhance reliability, and improve overall performance. Load balancers use distribution algorithms to evenly allocate requests among multiple servers, optimizing resource usage. The choice between Active-Active and Active-Passive configurations depends on system requirements. Database clusters, like the Primary-Replica model, maintain data consistency and availability. The Primary node handles write operations, while Replica nodes primarily serve read operations. The decision to configure load balancers as Active-Active or Active-Passive depends on specific system needs. These concepts are essential for designing robust and efficient IT systems.</p>
+
