@@ -1,4 +1,4 @@
-![exo2](Task3.png)
+![exo2](task3.png)
 
 <p>Adding Additional Elements: Extra elements are added to improve system scalability, reliability, and performance, preventing single points of failure by distributing workloads and enhancing system efficiency.</p>
 
